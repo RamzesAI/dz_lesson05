@@ -1,3 +1,4 @@
+#dz7
 import json
 with open('dz7.txt') as f_obj:
 

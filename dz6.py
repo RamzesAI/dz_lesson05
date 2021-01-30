@@ -1,3 +1,4 @@
+#dz6
 import re
 new_dict = {}
 sum_el = 0
