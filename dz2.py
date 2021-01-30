@@ -1,3 +1,4 @@
+#dz2
 my_f = open('dz2.txt', 'r')
 content = my_f.readlines()
 

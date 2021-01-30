@@ -1,3 +1,4 @@
+#dz4
 with open('dz4.txt', 'r') as f_obj:
     with open('dz4-1.txt', 'w', encoding='utf-8') as new_f_obj:
         new_f_obj.writelines(f'Один {f_obj.readline()[4:]}')

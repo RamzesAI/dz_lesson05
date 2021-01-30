@@ -1,3 +1,4 @@
+#dz5
 out_f = open('dz5.txt', 'w')
 user_line = input('input line of numbers:\n>>>')
 line_numbers = out_f.write(user_line)

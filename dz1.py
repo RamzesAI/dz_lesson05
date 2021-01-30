@@ -1,3 +1,4 @@
+#dz1
 my_f = open('text.txt', 'w', encoding='utf-8')
 
 while True:

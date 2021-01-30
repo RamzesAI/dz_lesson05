@@ -1,3 +1,4 @@
+Taranov 29000
 Ivanov 30000
 Petrov 10000
 Sidorov 25000

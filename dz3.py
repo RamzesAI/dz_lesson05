@@ -1,3 +1,4 @@
+#dz3
 my_f = open('dz3.txt', 'r')
 content = my_f.readlines()
 less_list = []
