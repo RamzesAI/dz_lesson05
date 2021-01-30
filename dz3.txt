@@ -1,0 +1,10 @@
+Ivanov 30000
+Petrov 10000
+Sidorov 25000
+Kozlov 40000
+Smirnov 15000
+Kovalev 32000
+Soloviev 39000
+Kotov 28000
+Zaicev 33000
+Sobolev 35000
